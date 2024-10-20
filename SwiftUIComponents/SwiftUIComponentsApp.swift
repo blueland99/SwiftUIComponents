@@ -17,7 +17,7 @@ struct SwiftUIComponentsApp: App { // SwiftUI 앱의 진입점이 되는 구조�
         // WindowGroup은 앱의 여러 윈도우를 관리하는 컨테이너, 주로 iOS에서 단일 윈도우로 사용
         WindowGroup {
             // ContentView라는 기본 화면을 표시
-            ContentView()
+            MainScreen()
         }
     }
 }
