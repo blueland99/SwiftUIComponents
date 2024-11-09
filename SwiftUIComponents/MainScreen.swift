@@ -11,7 +11,9 @@ struct MainScreen: View {
     var body: some View {
         // MainScreen에서 GreetingView를 호출하고 문자열을 전달
 //        GreetingView(name: "iOS SwiftUI")
-        LayoutExample()
+//        LayoutExample()
+//        LazyVStackExample()
+        LazyHStackExample()
     }
 }
 

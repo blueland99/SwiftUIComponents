@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		957167EB2CDFA81800C2D6B0 /* GreetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 957167EA2CDFA81800C2D6B0 /* GreetingView.swift */; };
 		957167ED2CDFA99C00C2D6B0 /* LayoutExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 957167EC2CDFA99C00C2D6B0 /* LayoutExample.swift */; };
+		957167EF2CDFAA0A00C2D6B0 /* LazyExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 957167EE2CDFAA0A00C2D6B0 /* LazyExample.swift */; };
 		95792A1B2CC3FAFC00E945FE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 95792A1A2CC3FAFC00E945FE /* README.md */; };
 		957D18182CC5406000976A3B /* MainScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 957D18172CC5406000976A3B /* MainScreen.swift */; };
 		959DDCFA2CBE8E690096915A /* SwiftUIComponentsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 959DDCF92CBE8E690096915A /* SwiftUIComponentsApp.swift */; };
@@ -21,6 +22,7 @@
 /* Begin PBXFileReference section */
 		957167EA2CDFA81800C2D6B0 /* GreetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingView.swift; sourceTree = "<group>"; };
 		957167EC2CDFA99C00C2D6B0 /* LayoutExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutExample.swift; sourceTree = "<group>"; };
+		957167EE2CDFAA0A00C2D6B0 /* LazyExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyExample.swift; sourceTree = "<group>"; };
 		95792A1A2CC3FAFC00E945FE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		957D18172CC5406000976A3B /* MainScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreen.swift; sourceTree = "<group>"; };
 		959DDCF62CBE8E690096915A /* SwiftUIComponents.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIComponents.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -70,6 +72,7 @@
 				957D18172CC5406000976A3B /* MainScreen.swift */,
 				957167EA2CDFA81800C2D6B0 /* GreetingView.swift */,
 				957167EC2CDFA99C00C2D6B0 /* LayoutExample.swift */,
+				957167EE2CDFAA0A00C2D6B0 /* LazyExample.swift */,
 			);
 			path = SwiftUIComponents;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				957167EB2CDFA81800C2D6B0 /* GreetingView.swift in Sources */,
 				959DDCFC2CBE8E690096915A /* ContentView.swift in Sources */,
 				959DDCFA2CBE8E690096915A /* SwiftUIComponentsApp.swift in Sources */,
+				957167EF2CDFAA0A00C2D6B0 /* LazyExample.swift in Sources */,
 				957167ED2CDFA99C00C2D6B0 /* LayoutExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
